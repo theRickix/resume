@@ -8,12 +8,11 @@ url: "http://therickix.github.io/"
 # about 5 elements are recomended
 github_username:  therickix
 linkedin_username: ricmagalhaes
-blog_url: "/blog"
 email: ricardo_magalhaes45@hotmail.com
 resume: yes
 
 
-avatar: yes
+avatar: no
 #avatar_img_path: "imgs/avatar.jpg""
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
