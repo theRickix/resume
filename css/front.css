@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
 
 body {
-    font-family: 'Josefin Sans',Helvetica,Arial,sans-serif;
+    font-family: 'Poiret One', cursive,Helvetica,Arial,sans-serif;
     background-color: rgba(0, 0, 0, 0.9);
     position: absolute; 
     top: 0;
@@ -10,6 +10,12 @@ body {
     left: 0;
     margin: 0;
 }
+
+img {
+    -webkit-filter: blur(10px); /* Safari 6.0 - 9.0 */
+    filter: blur(3px);
+}
+
 #fullscreen {
     z-index: -999;
     min-height: 100%;
@@ -40,8 +46,8 @@ h3 {
     font-weight: thin;
 }
 .content {
-    padding-top: 100px;
-    padding-bottom: 40px;
+    padding-top: 200px;
+    padding-bottom: 150px;
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
 }
